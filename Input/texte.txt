@@ -1,0 +1,6 @@
+Phrase de mot de passe :
+methode utilise : Un ! puis les initiale de la phrase lie au mot de passe, puis la date au format aaaammjj, puis un ? et enfin les initiales du site en majuscule
+- Mot de passe partageable : C'Est Mon Précieux Mot De Passe -> cempmdp
+- Mot de passe scolaire : On Ne Se Ferait Pas Chier Ici -> onsfpci
+- Mot de passe commerciale : Je Me Suis Fait Baiser La Non -> jmsfbln
+- Mot de passe personnel : la Folie Rampante Ile des Fous le Crane Sang le Carnet Vert -> frifcscv

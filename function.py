@@ -71,4 +71,3 @@ def readTxtSinceImage(inputImgName, outputTxtName = "outputTxt", weight=1):
         file.write(outputTxt)
     print(outputTxt)
     return outputTxt
-def 
